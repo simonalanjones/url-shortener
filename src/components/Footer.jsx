@@ -1,5 +1,5 @@
 const Footer = () => (
-  <footer className="text-center text-slate-400/80 text-xs sm:text-sm mt-32">
+  <footer className="text-center text-slate-400/80 text-xs sm:text-sm mt-32 mb-3">
     <img
       src="dv-logo.svg"
       alt="DV logo"

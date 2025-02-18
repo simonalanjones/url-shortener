@@ -22,7 +22,7 @@ const ResponseBlock = ({ url, resetPage }) => {
   };
 
   return (
-    <div className="mb-12 pb-4 rounded-lg mx-auto px-6">
+    <div className="pb-4 rounded-lg mx-auto px-6">
       <p className="pb-1 text-xs text-center uppercase tracking-wider font-semibold text-sky-600">
         Short URL
       </p>
